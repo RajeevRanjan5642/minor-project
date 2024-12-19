@@ -1,1 +1,1 @@
-# minor-project
+# Speech Emotion Recognition
